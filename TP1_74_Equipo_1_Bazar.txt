@@ -1,0 +1,84 @@
+====================================================
+   E.E.S.T. N°1 MUÑIZ - MODELOS Y SISTEMAS
+   PROFESOR: OMAR ALEJANDRO BAZAR | CURSO: 7° 4°
+====================================================
+REPORTE DE TRABAJO PRÁCTICO N°1: TGS
+FECHA: 23/4/2026, 8:02:37 p.m. | EQUIPO N°: 1
+REPOSITORIO: No especificado
+====================================================
+
+CARGO: LÍDER TÉCNICO
+INTEGRANTE: Klaus Patricio 
+----------------------------------------------------
+Respuesta de la Consigna:
+En que se basa el pensamiento sistematico?
+Se bada en poder ver el sistema completo en vez de cada pieza por individual o por cada miembro por separado, un ejemplo de esta disciplina, verl al "bosque" en vez de a sus "arboles"
+Y porque este pensamiento lo necesita el lider?
+Porque este pensamiento le permite coordinar bien los subsistemas y poder ver el panorama completo.
+Ejemplo:
+Subsistema tecnico:
+Herramientas, software,tiempo de entrega, procesos, cronogramas, infraestructura, etc.
+Subsistema humano:
+Miembros, relaciones interpersonales, motivaciones, habilidades individuales, estres, emociones, etc.
+Con este pensamiento le ayudaria al lider a entender que si modifica aunque sea el mas minimo componente todos los demas son afectados directa y proporcionalmente.
+Por ejemplo si se cambia el lenguaje o se modifica el tiempo de entrega, esto haria que los miembros (subsistema humano) sean afectados ya que estos quizas requieren capacitacion, horas extras o afecte en su estres o vida diaria
+----------------------------------------------------
+
+CARGO: ANALISTA FUNCIONAL
+INTEGRANTE: Dante rizzuto (montes falta)
+----------------------------------------------------
+Segun bertanlaffy el definia un sistema como un complejo de elementos en interacción o relacion cada sistema ed unico y posee distintas características; cada componente de un sistema es importante como la relación tambien lo es, existen varios tipos de sistemas
+
+Sistemas aislados: no intercambian ni materia, ni energia ,ni información con el entorno, sus fronteras son adiabaticas y rigidas osea que nada puede entrar ni salir del sistema por ejemplo un termo el cual ni el liquido ni el calor pueden salir por si solos 
+Sistema cerrado: es el sistema el cual solo intercambia energia con el entorno pero no materia sus fronteras son fijas o moviles dependiendo del sistema el cual puede intercambiar energía con otros sistemas por ejemplo un globo con aire puede entrar en contacto con el calor o el frio pero el aire sigue comprimido dentro del globo
+Sistema abierto:es el sistema el cual puede intercambiar todo tipo de materia y energia e interactua de manera libre con otros sistemas por ejemplo seres vivos el cual interactuan todo el rato con el entorno
+----------------------------------------------------
+
+CARGO: PROGRAMADOR SENIOR
+INTEGRANTE: Zarate santiago
+----------------------------------------------------
+Respuesta de la consigna:
+El isomorfismo es una relación entre dos sistemas distintos que comparten la misma estructura, es decir, hay una correspondencia exacta entre sus elementos y relaciones. Esto permite que ambos sistemas se comporten de forma equivalente aunque pertenezcan a ámbitos diferentes. En informática, un ejemplo es cuando dos estructuras de datos representan la misma información con distinta implementación pero igual organización lógica. En biología, se observa en la similitud entre redes neuronales biológicas y artificiales. El homomorfismo, en cambio, es una relación parcial donde solo se conservan algunas propiedades del sistema original. No existe una equivalencia total, sino una simplificación que mantiene lo esencial. En informática, un ejemplo es la compresión de datos, donde se reduce el tamaño conservando la información importante. En biología, ocurre con órganos que cumplen funciones similares pero tienen estructuras diferentes, como las alas de aves e insectos. Un caso de aplicación entre dominios es el uso de modelos epidemiológicos para estudiar la propagación de malware. El modelo SIR (Susceptible, Infectado, Recuperado) describe cómo se propaga una enfermedad en una población. Este mismo modelo se aplica en redes informáticas para analizar virus digitales y también en redes sociales para estudiar la viralidad de contenidos. Sin embargo, aplicar modelos isomórficos sin adaptación puede generar errores importantes, ya que no todos los sistemas comparten las mismas condiciones. Por ejemplo, los sistemas informáticos pueden actualizarse rápidamente, a diferencia de los biológicos. Por eso, es fundamental adaptar el modelo al contexto específico. Finalmente, el isomorfismo facilita la comunicación entre módulos en sistemas distribuidos, ya que permite estandarizar APIs y estructuras de datos, logrando que diferentes aplicaciones interactúen de manera eficiente y reduciendo la complejidad del sistema.
+----------------------------------------------------
+
+CARGO: PROGRAMADOR JUNIOR
+INTEGRANTE: Godoy carlos
+----------------------------------------------------
+Respuesta de la Consigna:
+La entropía es un concepto originado en la física y adaptado a la teoría de la información por Claude Shannon, donde representa el nivel de desorden o incertidumbre en un sistema. Aplicado al desarrollo de software, describe cómo el código fuente tiende a volverse más complejo, caótico y difícil de mantener con el paso del tiempo.
+
+En un proyecto de software, la entropía aumenta de forma natural debido a diversos factores. Uno de los principales es el cambio constante en los requisitos. A medida que el sistema evoluciona, se agregan nuevas funciones o se modifican las existentes, lo que muchas veces lleva a soluciones rápidas que no siguen una estructura clara.
+
+Otro factor importante es la participación de múltiples desarrolladores. Cada persona tiene su propio estilo y forma de programar, lo que genera inconsistencias si no existen reglas definidas. Esto hace que el código pierda uniformidad y sea más difícil de entender.
+
+La presión por cumplir plazos también influye en el aumento de la entropía. En muchos casos se prioriza la funcionalidad inmediata en lugar de la calidad del código, lo que provoca la acumulación de soluciones improvisadas y la falta de refactorización.
+
+Además, la ausencia de una arquitectura bien definida contribuye al desorden. Sin una base clara, el sistema crece de manera desorganizada, generando dependencias innecesarias y aumentando la complejidad general.
+
+La neguentropía, en este contexto, se refiere a las acciones que introducen orden en el sistema. La documentación es una de las herramientas más importantes para lograrlo. Permite explicar el funcionamiento del código, describir decisiones de diseño y facilitar la comprensión por parte de otros desarrolladores.
+
+Cuando la documentación es clara y está actualizada, reduce la incertidumbre y evita errores de interpretación. Esto mejora la comunicación dentro del equipo y hace más sencillo el mantenimiento del software.
+
+Los estándares de codificación también generan neguentropía. Establecen reglas sobre cómo escribir el código, incluyendo nombres de variables, estructura de funciones y organización de archivos. Esto aporta consistencia y hace que el código sea más predecible.
+
+El uso de estándares permite que diferentes partes del sistema mantengan una coherencia, incluso si fueron desarrolladas por distintas personas. Esto facilita la lectura y reduce el tiempo necesario para entender el código.
+
+Las revisiones de código son otro mecanismo importante. A través de ellas, otros desarrolladores pueden detectar errores, corregir malas prácticas y asegurar que se respeten los estándares establecidos.
+
+Las herramientas automáticas, como linters y formateadores, también ayudan a mantener el orden. Aplican reglas de estilo de forma consistente y evitan desviaciones en la escritura del código.
+
+El control de versiones permite organizar los cambios, mantener un historial claro y evitar conflictos, lo que también contribuye a reducir el desorden.
+
+La combinación de documentación, estándares, revisiones y herramientas permite contrarrestar el aumento natural de la entropía en el código fuente.
+----------------------------------------------------
+
+CARGO: QA / TESTER
+INTEGRANTE: Quiroga alexander
+----------------------------------------------------
+Respuesta de la Consigna:
+El feedback o retroalimentación es el proceso mediante el cual un sistema obtiene información sobre su propio funcionamiento y la utiliza para corregir errores y mejorar su desempeño. En software, esto se ve cuando se analizan resultados de ejecución, fallos o métricas para ajustar el sistema. Permite detectar desviaciones respecto a lo esperado y aplicar cambios para optimizar el funcionamiento.
+La homeostasis, en cambio, es la capacidad del sistema de mantenerse estable y funcionando correctamente a pesar de cambios o problemas. En el contexto del software, implica que el sistema pueda adaptarse a errores, variaciones de carga o fallos sin colapsar.
+Ambos conceptos están directamente relacionados: el feedback permite identificar problemas y la homeostasis asegura que el sistema se mantenga en equilibrio. Gracias a esto, el software puede ser más confiable, estable y capaz de adaptarse a distintas condiciones sin fallar.
+----------------------------------------------------
+
+FIN DEL REPORTE - FIRMA DOCENTE: PROF. BAZAR
